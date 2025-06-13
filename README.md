@@ -60,7 +60,7 @@ Jogo de memória com JavaScript puro, explorando lógica, DOM e interação com 
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevinpaixao/)
-- 📧 kevinlucas2702@gmail.com
+- 📧 [E-mail](kevinlucas2702@gmail.com)
 - 📂 Veja meus projetos aqui no GitHub :)
 
 ---
