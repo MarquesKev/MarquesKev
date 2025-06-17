@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de Desenvolvimento Web <br>
-  🚀 Focado em Back-end e Front-end <br>
+  🚀 Focado em Back-end <br>
   📍 Maceió, AL • 🌐 <a href="https://www.linkedin.com/in/kevinpaixao/">LinkedIn</a>
 </p>
 
@@ -16,7 +16,7 @@ Atualmente cursando Sistemas de Informação, com grande interesse em **tecnolog
 
 ## 📚 O que estou estudando agora
 
-- 🔧 Back-end com **GoLang**
+- 🔧 Back-end com **Go**
 - 🗄️ Modelagem e consultas com **SQL**
 
 ---
