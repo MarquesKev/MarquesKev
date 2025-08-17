@@ -37,14 +37,14 @@ Atualmente cursando Sistemas de Informação, com grande interesse em **tecnolog
 
 ## 🛠️ Projetos em Destaque
 
+🔹 **[Sistema de Biblioteca com GORM](https://github.com/MarquesKev/sistema-de-biblioteca-com-GORM)**  
+Sistema de gerenciamento de biblioteca construído em Go, utilizando a biblioteca **GORM** para persistência de dados e operações CRUD com estrutura robusta.
+
 🔹 **[Simulador de Corridas - Mario Kart](https://github.com/MarquesKev/simulador-corrida-mario-kart)**  
 Projeto divertido e interativo simulando corridas entre personagens do Mario Kart com lógica de sorteios e posicionamentos.  
 
 🔹 **[Projeto Chale Hotel](https://github.com/MarquesKev/projeto-chale-hotel)**  
 Website institucional responsivo, desenvolvido com HTML5 e CSS3, aplicando técnicas de responsividade e layout moderno.
-
-🔹 **[Projeto Jogo da Memória](https://github.com/MarquesKev/jogo-da-memoria)**  
-Jogo de memória com JavaScript puro, explorando lógica, DOM e interação com o usuário.
 
 ---
 
